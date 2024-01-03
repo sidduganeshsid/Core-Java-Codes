@@ -1,9 +1,9 @@
-package coreJava;
+package tooBasic;
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Core Java");
+		System.out.println("Hello World");
 	}
 
 }
